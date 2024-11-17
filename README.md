@@ -6,4 +6,4 @@ Descripción del proyecto y su funcionalidad: En este proyecto se puso en práct
 
 Descripción de las tecnologías y técnicas utilizadas: CSS y HTML avanzados, BEM para nombrar clases y organizar archivos, media queries para distintos formatos de pantallas, flexbox para organizar el contenido de la página y Git para publicar el código en GitHub, entre otros.
 
-Enlace a GitHub Pages:
+Enlace a GitHub Pages: https://mariana28rojo.github.io/web_project_homeland/
