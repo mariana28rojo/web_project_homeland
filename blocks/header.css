@@ -47,35 +47,34 @@
   width: 100%;
 }
 
-@media screen and (min-width: 545px) and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .header__title {
-    max-width: 530px;
+    max-width: 100%;
     font-size: 75px;
     line-height: 1;
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 544px) {
+@media screen and (max-width: 544px) {
   .header__logo {
-    max-width: 190px;
+    max-width: 188px;
     padding-bottom: 50px;
     margin-top: 20px;
   }
 
   .header__title {
-    max-width: 220px;
+    max-width: 100%;
     font-size: 40px;
     line-height: 1;
   }
 
   .header__subtitle {
-    max-width: 290px;
+    max-width: 100%;
     font-size: 16px;
     padding-bottom: 32px;
   }
 
   .header__image {
-    width: 100%;
     padding-bottom: 64px;
   }
 }
