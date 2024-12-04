@@ -46,7 +46,7 @@
   grid-area: artist;
   font-size: 12px;
   color: #aaaaaa;
-  letter-spacing: 12%;
+  letter-spacing: 1.44px;
 }
 
 .places__artist-name {
